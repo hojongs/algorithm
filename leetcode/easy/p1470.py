@@ -1,7 +1,10 @@
+"""
+1470. Shuffle the Array
+https://leetcode.com/problems/shuffle-the-array/
+"""
 from typing import List
 
 
-# 1470. Shuffle the Array
 class Solution:
     def shuffle(self, nums: List[int], n: int) -> List[int]:
         shuffled = [0] * n * 2
