@@ -1,7 +1,7 @@
 """
 20. Valid Parentheses
 https://leetcode.com/problems/valid-parentheses/
-이것도 DS 강의 과제 코드 기억 그대로.. (왜 안 까먹을까)
+이것도 DS 강의 과제 코드 기억 그대로.. (왜 안 까먹을까, 조교를 해서 그런가?)
 """
 
 
