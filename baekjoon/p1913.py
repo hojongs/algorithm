@@ -19,6 +19,7 @@ def main():
     kk = n - 1
     kkk = 1
     while True:
+        # TODO: apply solution https://egg-money.tistory.com/85
         # down
         while True:
             table[i][k] = v
