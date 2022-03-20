@@ -2,7 +2,14 @@
 
 ## Impressive problems
 
-leetcode/easy/p53.py (DP)
+### DP
+
+- [leetcode/easy/p53.py](https://leetcode.com/problems/maximum-subarray/)
+  - Tabulation (Bottom-up)
+- [leetcode/easy/p70.py](https://leetcode.com/problems/climbing-stairs/)
+  - Memoization (Top-down)
+- [leetcode/easy/p121.py](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+  - Tabulation (Bottom-up)
 
 ## Leetcode
 

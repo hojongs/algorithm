@@ -4,6 +4,9 @@ https://leetcode.com/problems/climbing-stairs/submissions/
 
 DP
 Discrete mathematics 강의의 기억 (점화식)
+
+# think in backward way
+# time limit execced? find out inefficient part
 """
 
 
