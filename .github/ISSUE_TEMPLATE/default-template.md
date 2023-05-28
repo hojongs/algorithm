@@ -40,7 +40,7 @@ https://www.acmicpc.net/problem/3986
 > 구현하기 전에 알고리즘 오류를 파악한다
 
 
-## Impl plan validation
+## Validate algorithm
 
 > 알고리즘의 유효 여부를 구현 전에 검증한다
 > 놓친 알고리즘 오류가 있는지 확인한다
