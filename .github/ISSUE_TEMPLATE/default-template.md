@@ -17,7 +17,7 @@ https://www.acmicpc.net/problem/3986
 
 > 적합한 자료구조를 생각한다
 
-## Design algorithm
+## Design(Plan) algorithm
 
 ### Example input cases
 
