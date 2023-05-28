@@ -11,7 +11,15 @@ assignees: ''
 
 https://www.acmicpc.net/problem/3986
 
-## Example input cases
+## Problem abstraction
+
+> 문제의 핵심을 요약한다. 체계적인 문제 접근을 위해, 문제를 추상화한다
+
+> 적합한 자료구조를 생각한다
+
+## Design algorithm
+
+### Example input cases
 
 > 정확한 문제 이해를 위해 적어도 3개의 예제 입력을 확인한다
 
@@ -26,14 +34,6 @@ https://www.acmicpc.net/problem/3986
 ```
 # 3
 ```
-
-## Problem abstraction
-
-> 문제의 핵심을 요약한다. 체계적인 문제 접근을 위해, 문제를 추상화한다
-
-> 적합한 자료구조를 생각한다
-
-## Design algorithm
 
 > 추상화한 문제 이해를 기반으로 알고리즘의 대략적인 구현 계획을 서술한다
 
