@@ -19,7 +19,11 @@ https://www.acmicpc.net/problem/3986
 
 ## Design(Plan) algorithm
 
-### Example input cases
+> 추상화한 문제 이해를 기반으로 알고리즘의 대략적인 구현 계획을 서술한다
+
+> 구현하기 전에 알고리즘 오류를 파악한다
+
+Example input cases:
 
 > 정확한 문제 이해를 위해 적어도 3개의 예제 입력을 확인한다
 
@@ -34,11 +38,6 @@ https://www.acmicpc.net/problem/3986
 ```
 # 3
 ```
-
-> 추상화한 문제 이해를 기반으로 알고리즘의 대략적인 구현 계획을 서술한다
-
-> 구현하기 전에 알고리즘 오류를 파악한다
-
 
 ## Validate algorithm
 
