@@ -30,11 +30,15 @@ https://www.acmicpc.net/problem/3986
 
 ```
 
+### Algorithm idea
+
 > 추상화한 문제 이해를 기반으로 알고리즘의 대략적인 구현 계획을 서술한다
 
-> 구현하기 전에 알고리즘 오류를 파악한다
+### Pseudo-code
 
-## Validate algorithm
+> idea를 수도 코드로 작성해본다
+
+### Validate algorithm
 
 > 알고리즘의 유효 여부를 구현 전에 검증한다
 > 놓친 알고리즘 오류가 있는지 확인한다
