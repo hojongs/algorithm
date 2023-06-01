@@ -41,7 +41,8 @@ https://www.acmicpc.net/problem/3986
 ### Validate algorithm
 
 > 알고리즘의 유효 여부를 구현 전에 검증한다
-> 놓친 알고리즘 오류가 있는지 확인한다
+
+> 예제 입력을 수도 코드로 계산해보고, 놓친 알고리즘 오류가 있는지 확인한다
 
 ## Impl
 
